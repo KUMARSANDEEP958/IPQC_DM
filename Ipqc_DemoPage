@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: powderblue;
+        }
+        
+        h1 {
+            color: blue;
+        }
+        
+        p {
+            color: rgb(0, 0, 0);
+        }
+        
+        pre {
+            color: rgb(0, 0, 0);
+        }
+    </style>
+</head>
+
+<body>
+    <!--<p id="demo" >Click the button to change the layout of this paragraph</p>-->
+
+    <!--<button onclick="myFunction()">Click Me!</button>-->
+    <!-- <script>
+        function myFunction() {
+            var x = document.getElementById("demo");
+            x.style.fontSize = "25px";
+            x.style.color = "Yellow";
+        }
+    </script> -->
+    <a class="Under_Logo">
+        <img src="/Images/IPQC-logo_tp-bg.png " width="250px " height="80px " alt="IPQC_Logo" />
+    </a>
+    <h1>IPQC-Digital Marketing</h1>
+    <h2>Grow your Buisiness</h2>
+    <img src="/Images/Digital-Marketing.jpg" />
+    <p>
+
+        <pre style="background-color: rgb(228, 241, 255);">
+<h3>    Digital Marketing & Marketing Strategy</h3>
+<br clear="left">
+> MSMEs and Startups needs professional digital marketing professional services which can improve its sales at much lower cost of conventional marketing. 
+MSMEs are very price sensitive and require boost in sales to grow faster than their competitors. MSME approach to sales in B2B marketplace.
+
+> We help companies turnaround their non-profitable ventures into something that benefits them. Our specialty lies in understanding what makes a company
+ special and what makes it tick.
+
+  </pre>
+        <img src="/Images/digital marketing 2.jpg" ALIGN="left" /> <br />
+        <pre style="background-color: rgb(228, 241, 255);">
+          <h3>    
+            
+                Business planning & strategy</h3> 
+
+        Our clients are often surprised by the possibilities we present to them; 
+        by thinking outside the box we present exciting new ventures:
+        
+            => Work fewer hours — and make more money
+            => Attract and retain quality, high-paying customers
+            => Manage your time so you’ll get more done in less time
+            => Hone sharp leadership skills to manage your team
+            => Cut expenses without sacrificing quality
+            => Automate your business, so you can leave for days,
+        </pre>
+
+        <img src="/Images/digital marketing motto page.jpg" ALIGN="right" />
+        <pre style="background-color: rgb(224, 238, 255);">
+          <h3>
+            
+            
+            
+            
+            
+            
+            Business plan market</h3>
+
+<b>A strong business plan requires going beyond intuition and experience,
+   and supporting your idea with fact-based market research. 
+   Investors need to have confidence in your understanding of the market, 
+   so don’t let yourself down by skimping on research. We have access to 
+   fee-based,subscriber-only resources such as: </b>
+          
+              Don James/Semplice – Article and News Research
+              VoltageBusiness – Company and Industry Research
+              Goovers – Company and Industry Research
+              IRISpace – Article and News Research
+              Lexos-Nexos – Company, Industry, Market Research
+              Plombett – Article and News Research
+              Pronounce – Market Analysis report “Slices”
+          
+          
+        </pre><br />
+        <img src="/Images/digital marketing.jpg" />
+    </p>
+</body>
+
+</html>
